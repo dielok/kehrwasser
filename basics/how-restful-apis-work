@@ -1,0 +1,20 @@
+# How to use a restful API
+
+Generally it describes a machine to machine interface and more specifically in web development it allows
+for an addition or replacement of server-side rendering to assist client-side rendering in web applications
+as client server model where the web browser acts as the client.
+
+REST has been employed throughout the software industry and is a widely accepted set of guidelines for
+creating stateless, reliable web APIs. A web API that obeys the REST constraints is informally described as
+RESTful. RESTful web APIs are typically loosely based on HTTP methods to access resources via URL-encoded
+parameters and the use of JSON or XML to transmit data.
+
+Web service APIs that adhere to the REST architectural constraints are called RESTful APIs.[13] HTTP-based
+RESTful APIs are defined with the following aspects
+
+- a base URI, such as http://api.example.com/;
+- standard HTTP methods (e.g., GET, POST, PUT, and DELETE);
+- a media type that defines state transition data elements (e.g., Atom, microformats,
+  application/vnd.collection+json,[14]: 91–99  etc.). The current representation tells the client how to
+  compose requests for transitions to all the next available application states. This could be as simple as
+  a URI or as complex as a Java applet.
